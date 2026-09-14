@@ -5,7 +5,7 @@
 **Building products with real-world utility — from railway intelligence to local commerce tools.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vybex--dev.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vybex-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadav.harsh2798@gmail.com)
 
 </div>
 
@@ -16,6 +16,14 @@
 I'm an independent developer building under **VYBEX** — shipping full-stack products, hackathon builds, and internal tools across web and mobile. I care about polished UI/UX and performance-conscious frontend architecture as much as I care about the backend actually working.
 
 Recurring themes in what I build: **Indian Railways infrastructure**, **local commerce tools for shopkeepers**, and **privacy-first tech**.
+
+<div align="center">
+
+| 5+ | 10+ | 2+ | &lt;25d |
+|:---:|:---:|:---:|:---:|
+| Builders | Projects shipped | Countries | Avg. launch |
+
+</div>
 
 ---
 
@@ -40,34 +48,32 @@ Recurring themes in what I build: **Indian Railways infrastructure**, **local co
 
 ### Featured Projects
 
-<!-- PLACEHOLDER: swap these in with your real top 4-6 repos + one-line descriptions -->
-
 <table>
 <tr>
 <td width="50%">
 
-**[Project Name](https://github.com/vybex-dev/repo-name)**
-One-line description of what it does and the core tech used.
+**[NORYQ AI](https://noryq.in/)**
+AI-powered recommendations that actually match what you want to watch.
 
 </td>
 <td width="50%">
 
-**[Project Name](https://github.com/vybex-dev/repo-name)**
-One-line description of what it does and the core tech used.
+**[AXIOM OS](https://github.com/someone0here/axiom-os)**
+Open source private desktop environment. · [Live Demo](https://axiom-os-web.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[Project Name](https://github.com/vybex-dev/repo-name)**
-One-line description of what it does and the core tech used.
+**[ShopAssist AI](https://github.com/vybex-dev/shopassist)**
+AI support for modern e-commerce. · [Live Demo](https://shopassist-vybex.vercel.app/)
 
 </td>
 <td width="50%">
 
-**[Project Name](https://github.com/vybex-dev/repo-name)**
-One-line description of what it does and the core tech used.
+**[KVPS](https://kvps.in/)**
+Official website for KV Public School.
 
 </td>
 </tr>
