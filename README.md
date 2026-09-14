@@ -1,15 +1,20 @@
 <div align="center">
 
-# VYBEX
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:22D3EE&height=180&section=header&text=VYBEX&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-**Building products with real-world utility — from railway intelligence to local commerce tools.**
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=560&lines=Independent+developer+under+VYBEX;Apps%2C+Software+and+Websites;Building+products+with+real-world+utility;Powered+by+AI.+Shipped+fast." alt="Typing SVG" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vybex--dev.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vybex-dev.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadav.harsh2798@gmail.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-vybex--dev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vybex-dev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadav.harsh2798@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=vybex-dev&style=for-the-badge&color=8B5CF6&label=Profile+Views)
 
 </div>
 
----
+<br/>
 
 ### About
 
@@ -18,6 +23,8 @@ I'm an independent developer building under **VYBEX** — shipping full-stack pr
 Recurring themes in what I build: **Indian Railways infrastructure**, **local commerce tools for shopkeepers**, and **privacy-first tech**.
 
 <div align="center">
+
+**Vibe → Sketch → Build → Ship**
 
 | 5+ | 10+ | 2+ | &lt;25d |
 |:---:|:---:|:---:|:---:|
@@ -31,16 +38,9 @@ Recurring themes in what I build: **Indian Railways infrastructure**, **local co
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,py,fastapi,nextjs,nodejs,firebase,vercel&theme=dark&perline=9" />
+
+<sub>React · React Native · TypeScript · JavaScript · Python · FastAPI · Next.js · Node.js · Firebase · Vercel</sub>
 
 </div>
 
@@ -50,30 +50,40 @@ Recurring themes in what I build: **Indian Railways infrastructure**, **local co
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[NORYQ AI](https://noryq.in/)**
+**NORYQ AI**
 AI-powered recommendations that actually match what you want to watch.
 
-</td>
-<td width="50%">
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://noryq.in/)
 
-**[AXIOM OS](https://github.com/someone0here/axiom-os)**
-Open source private desktop environment. · [Live Demo](https://axiom-os-web.vercel.app/)
+</td>
+<td width="50%" valign="top">
+
+**AXIOM OS**
+Open source private desktop environment.
+
+[![Code](https://img.shields.io/badge/Code-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/someone0here/axiom-os)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://axiom-os-web.vercel.app/)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[ShopAssist AI](https://github.com/vybex-dev/shopassist)**
-AI support for modern e-commerce. · [Live Demo](https://shopassist-vybex.vercel.app/)
+**ShopAssist AI**
+AI support for modern e-commerce.
+
+[![Code](https://img.shields.io/badge/Code-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/vybex-dev/shopassist)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://shopassist-vybex.vercel.app/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[KVPS](https://kvps.in/)**
+**KVPS**
 Official website for KV Public School.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://kvps.in/)
 
 </td>
 </tr>
@@ -85,17 +95,17 @@ Official website for KV Public School.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vybex-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vybex-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=vybex-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vybex-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vybex-dev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=vybex-dev&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 <div align="center">
 
 *Open to collaborations and interesting problems — reach out.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:EC4899,100:8B5CF6&height=100&section=footer&animation=fadeIn" width="100%"/>
