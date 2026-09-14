@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:22D3EE&height=200&section=header&text=VYBEX&fontSize=64&fontColor=ffffff&fontAlignY=32&desc=Vibe-coding+studio+and+community&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=560&lines=Part+of+VYBEX+Studio+%26+Community;Apps%2C+Software+and+Websites;Building+products+with+real-world+utility;Powered+by+VYBEX.+Shipped+fast." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=560&lines=We+vibe-code+the+future+of+the+web;Apps%2C+Software+and+Websites;Shipping+products+with+real-world+utility;Powered+by+VYBEX.+Shipped+fast." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,9 +18,9 @@
 
 ### About
 
-I'm part of **VYBEX** — a vibe-coding studio and community of designers, engineers and dreamers shipping apps, software and websites at the speed of imagination. I care about polished UI/UX and performance-conscious frontend architecture as much as I care about the backend actually working.
+**VYBEX** is a vibe-coding studio and community of designers, engineers and dreamers shipping apps, software and websites at the speed of imagination. We care about polished UI/UX and performance-conscious frontend architecture as much as we care about the backend actually working.
 
-Recurring themes in what I build: **Indian Railways infrastructure**, **local commerce tools for shopkeepers**, and **privacy-first tech**.
+Recurring themes in what we build: **Indian Railways infrastructure**, **local commerce tools for shopkeepers**, and **privacy-first tech**.
 
 <div align="center">
 
