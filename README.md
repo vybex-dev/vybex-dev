@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:22D3EE&height=180&section=header&text=VYBEX&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:22D3EE&height=200&section=header&text=VYBEX&fontSize=64&fontColor=ffffff&fontAlignY=32&desc=Vibe-coding+studio+and+community&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=560&lines=Independent+developer+under+VYBEX;Apps%2C+Software+and+Websites;Building+products+with+real-world+utility;Powered+by+AI.+Shipped+fast." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=560&lines=Part+of+VYBEX+Studio+%26+Community;Apps%2C+Software+and+Websites;Building+products+with+real-world+utility;Powered+by+VYBEX.+Shipped+fast." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 
 ### About
 
-I'm an independent developer building under **VYBEX** — shipping full-stack products, hackathon builds, and internal tools across web and mobile. I care about polished UI/UX and performance-conscious frontend architecture as much as I care about the backend actually working.
+I'm part of **VYBEX** — a vibe-coding studio and community of designers, engineers and dreamers shipping apps, software and websites at the speed of imagination. I care about polished UI/UX and performance-conscious frontend architecture as much as I care about the backend actually working.
 
 Recurring themes in what I build: **Indian Railways infrastructure**, **local commerce tools for shopkeepers**, and **privacy-first tech**.
 
@@ -37,16 +37,34 @@ Recurring themes in what I build: **Indian Railways infrastructure**, **local co
 ### Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,py,fastapi,nextjs,nodejs,firebase,vercel&theme=dark&perline=9" />
-
-<sub>React · React Native · TypeScript · JavaScript · Python · FastAPI · Next.js · Node.js · Firebase · Vercel</sub>
-
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/><sub><b>React / RN</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/><br/><sub><b>FastAPI</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify"/><br/><sub><b>Netlify</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="32" alt="Railway"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" height="32" alt="Render"/></td>
+</tr>
+</table>
 </div>
 
 ---
 
 ### Featured Projects
+
+<div align="center"><sub>Shipped, not pitched.</sub></div>
+<br/>
 
 <table>
 <tr>
