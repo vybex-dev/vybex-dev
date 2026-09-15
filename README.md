@@ -20,6 +20,7 @@
 
 **VYBEX** is a vibe-coding studio and community of designers, engineers and dreamers shipping apps, software and websites at the speed of imagination. We care about polished UI/UX and performance-conscious frontend architecture as much as we care about the backend actually working.
 
+Recurring themes in what we build: **Indian Railways infrastructure**, **local commerce tools for shopkeepers**, and **privacy-first tech**.
 
 <div align="center">
 
@@ -52,8 +53,8 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify"/><br/><sub><b>Netlify</b></sub></td>
-<td align="center"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="32" alt="Railway"/><br/><sub><b>Railway</b></sub></td>
-<td align="center"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" height="32" alt="Render"/><br/><sub><b>Render</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="32" alt="Railway"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" height="32" alt="Render"/></td>
 </tr>
 </table>
 </div>
@@ -108,9 +109,24 @@ Official website for KV Public School.
 
 ---
 
+### Recent Activity
+
+<sub>Live — auto-updates every 30 minutes straight from the GitHub API.</sub>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### GitHub Stats
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vybex-dev/vybex-dev/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vybex-dev/vybex-dev/main/dist/github-snake.svg" />
+  <img alt="VYBEX contribution snake" src="https://raw.githubusercontent.com/vybex-dev/vybex-dev/main/dist/github-snake.svg" width="100%"/>
+</picture>
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=vybex-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vybex-dev&layout=compact&theme=tokyonight&hide_border=true" />
