@@ -53,8 +53,8 @@ Recurring themes in what we build: **Indian Railways infrastructure**, **local c
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify"/><br/><sub><b>Netlify</b></sub></td>
-<td align="center"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="32" alt="Railway"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" height="32" alt="Render"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="32" alt="Railway"/><br/><sub><b>Railway</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" height="32" alt="Render"/><br/><sub><b>Render</b></sub></td>
 </tr>
 </table>
 </div>
